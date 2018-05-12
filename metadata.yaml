@@ -20,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/767
     wikipedia: http://en.wikipedia.org/wiki/Jean_Racine
 description: 'Translation of: Les plaideurs'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18412#De-Pleiters
 gutenberg_issued: '2006-05-18'
 gutenberg_type: Text
 identifiers:
